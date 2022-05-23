@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BarChama6</string>
+    <string name="channel_name">CanalDoBar</string>
+    <string name="channel_description">Chama os garçons</string>
+    <string name="area_de_login">ÁREA DE LOGIN</string>
+    <string name="informe_seu_login">Informe seu login</string>
+    <string name="digite_a_senha">Digite a senha</string>
+    <string name="txtBtnEntrar">Entrar</string>
+    <string name="textNomeBarman">Barman</string>
+    <string name="textNomeGarcon">Garçom</string>
+    <string name="barChamaVersao">Versão 1.0.18 - www.webjoi.com.br</string>
+    <string name="textBarEquipe">Toque para chamar:</string>
+    <string name="textGarconJonathan">Jonathan</string>
+    <string name="textGarconKleber">Kléber</string>
+    <string name="textGarconLuciano">Luciano</string>
+    <string name="textGarconJessica">Jéssica</string>
+    <string name="textGarconLoren">Loren</string>
+    <string name="textGarconMayco">Mayco</string>
+    <string name="textSetorBar">BAR</string>
+    <string name="textMsgChamando">Chamando!</string>
+    <string name="texto_verificador">Inicializando...</string>
+</resources>
